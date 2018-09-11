@@ -1,0 +1,14 @@
+{
+  "pages": [
+   
+    "pages/index/index",
+    "pages/IDcard/IDcard",
+    "pages/logs/logs"
+   
+  ],
+  "window": {
+    
+    "navigationStyle": "custom"
+    
+  }
+}
